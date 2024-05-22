@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with Eminem
 - 📫 How to reach me: Don't.
 - 😄 Pronouns: fucking/idiot
-- ⚡ Fun fact: I'm an idiot.
+- ⚡ Fun fact: Fun fact
 
 <!---
 MilewskiMaciej/MilewskiMaciej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
